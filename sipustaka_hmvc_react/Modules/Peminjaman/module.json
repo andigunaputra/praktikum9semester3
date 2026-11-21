@@ -1,0 +1,11 @@
+{
+    "name": "Peminjaman",
+    "alias": "peminjaman",
+    "description": "Modul Peminjaman Buku",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Peminjaman\\Providers\\PeminjamanServiceProvider"
+    ],
+    "files": []
+}

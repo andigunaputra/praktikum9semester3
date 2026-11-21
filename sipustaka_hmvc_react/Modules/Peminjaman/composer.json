@@ -1,0 +1,17 @@
+{
+    "name": "nwidart/peminjaman",
+    "description": "Modul Peminjaman Buku",
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Peminjaman\\": "app/",
+            "Modules\\Peminjaman\\Database\\Factories\\": "database/factories/",
+            "Modules\\Peminjaman\\Database\\Seeders\\": "database/seeders/"
+        }
+    }
+}
